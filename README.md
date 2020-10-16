@@ -1,4 +1,4 @@
-### 👋 Hi there,
+## 👋 Hi there,
 *I'm sanana, sanana the skenana.*
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theoddgarlic&layout=compact)](https://github.com/theoddgarlic)
