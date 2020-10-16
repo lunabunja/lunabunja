@@ -1,5 +1,8 @@
 ## 👋 Hi there,
 *I'm sanana, sanana the skenana.*
+I like playing games and spending time working on useless projects that I don't end up publishing so I have basically nothing here. Most of my projects are my old stuff that I wrote when I did not even know English. 😄
+
+- 🔭 I’m currently working on private projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theoddgarlic&layout=compact)](https://github.com/theoddgarlic)
 
