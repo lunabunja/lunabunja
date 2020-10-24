@@ -12,7 +12,8 @@ I like playing games and spending time working on useless projects that I don't 
 - 🔭 I’m currently working on private projects.
 
 <p align="center">
-<a href="https://github.com/theoddgarlic"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoddgarlic&layout=compact"/></a>
+  <a href="https://github.com/theoddgarlic"><img src="https://github-readme-stats.vercel.app/api?username=theoddgarlic"/></a>
+  <a href="https://github.com/theoddgarlic"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoddgarlic"/></a>
 </p>
 
 <!--
