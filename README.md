@@ -8,6 +8,7 @@ I like playing games and spending time working on useless projects that I don't 
 - 🔭 I’m currently working on private projects.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theoddgarlic&layout=compact)](https://github.com/theoddgarlic)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=theoddgarlic.theoddgarlic)
 
 <!--
 **TheOddGarlic/TheOddGarlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
