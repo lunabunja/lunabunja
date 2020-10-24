@@ -1,6 +1,10 @@
 ## 👋 Hi there,
 <p align="center">
-<a href="https://github.com/theoddgarlic"><img src="https://visitor-badge.glitch.me/badge?page_id=theoddgarlic.theoddgarlic"/></a>
+  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%2Fnode.js%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/shell%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
 [<img src="https://theoddgarlic.js.org/img/github-readme/im-sanana.jpg" width="360" height="296"/>](https://github.com/theoddgarlic)
