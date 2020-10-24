@@ -1,5 +1,7 @@
 ## 👋 Hi there,
-![visitors](https://visitor-badge.glitch.me/badge?page_id=theoddgarlic.theoddgarlic)
+<p align="center">
+<img src="https://visitor-badge.glitch.me/badge?page_id=theoddgarlic.theoddgarlic"/>
+ </p>
 
 [<img src="https://theoddgarlic.js.org/img/github-readme/im-sanana.jpg" width="360" height="296"/>](https://github.com/theoddgarlic)
 
