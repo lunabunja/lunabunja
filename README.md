@@ -12,7 +12,8 @@
 
 I like playing games and spending time working on useless projects that I don't end up publishing so I have basically nothing here. Most of my projects are my old stuff that I wrote when I did not even know English. 😄
 
-- 🔭 I’m currently working on private projects.
+- 🔭 I’m currently working on [`untitled-minecraft-launcher`](https://github.com/TheOddGarlic/untitled-minecraft-launcher) and private projects.
+- 😄 Pronouns: he/him or they/them.
 
 <p align="center">
   <a href="https://github.com/theoddgarlic"><img src="https://github-readme-stats.vercel.app/api?username=theoddgarlic"/></a>
