@@ -12,7 +12,7 @@
 
 I like playing games and spending time working on useless projects that I don't end up publishing.
 
-- 🔭 I’m currently working on [`untitled-minecraft-launcher`](https://github.com/OxideMC/oxide-launcher) and private projects.
+- 🔭 I’m currently working on [`oxide-launcher`](https://github.com/OxideMC/oxide-launcher) and private projects.
 - 😄 Pronouns: he/him or they/them.
 
 <p align="center">
