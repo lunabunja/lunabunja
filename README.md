@@ -12,7 +12,7 @@
 
 I like playing games and spending time working on useless projects that I don't end up publishing.
 
-- 🔭 I’m currently working on [OxideMC](https://github.com/OxideMC) and private projects.
+- 🔭 I’m currently working on [Fluet](https://github.com/fluetlang) and private projects.
 - 😄 Pronouns: he/him or they/them.
 
 <p align="center">
