@@ -4,8 +4,8 @@
 
 I like playing games and spending time working on useless projects that I don't end up publishing.
 
-- 🔭 I’m currently working on [Fluet](https://github.com/fluetlang)
-- 😄 Pronouns: he/him or any
+- 🔭 I’m currently working on private projects
+- 😄 Pronouns: she/her
 
 <p align="center">
   <a href="https://github.com/theoddgarlic"><img src="https://github-readme-stats.vercel.app/api?username=theoddgarlic"/></a>
