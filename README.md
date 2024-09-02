@@ -4,12 +4,12 @@
 
 I like playing games and spending time working on useless projects that I don't end up publishing.
 
-- 🔭 I’m currently working on private projects
+- 🔭 I have a no-new-projects-on-GitHub rule, so check out my projects [here](https://sr.ht/~asya/)!
 - 😄 Pronouns: she/her
 
 <p align="center">
-  <a href="https://github.com/theoddgarlic"><img src="https://github-readme-stats.vercel.app/api?username=theoddgarlic"/></a>
-  <a href="https://github.com/theoddgarlic"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theoddgarlic&layout=compact&langs_count=10"/></a>
+  <a href="https://github.com/AsyaTheAbove"><img src="https://github-readme-stats.vercel.app/api?username=AsyaTheAbove"/></a>
+  <a href="https://github.com/AsyaTheAbove"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsyaTheAbove&layout=compact&langs_count=10"/></a>
 </p>
 
 <!--
